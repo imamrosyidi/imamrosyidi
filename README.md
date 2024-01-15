@@ -1,7 +1,14 @@
 ### Hi there 👋
+I'm a passionate Software Engineer based in South Jakarta, currently working at **JUBELIO**. Here's a glimpse of my journey so far:
+
+#### 👨‍💻 Professional Experience
+**Software Engineer @ JUBELIO (2023 - Present)**
+**Software Engineer @ ATOM DAYA UTAMA (2021-2022)**
+
+#### 🚀 Education and Internship
+**Physics Student (Material Data Scientist) Intern @ Indonesian Institute of Sciences (LIPI) - South Tangerang (2020)**
 
 #### 🤝 Let's Connect
-
 - [LinkedIn](https://id.linkedin.com/in/moh-imam-rosyidi-16ab2516b)
 - [Medium](https://medium.com/@imrosyidi)
 - [Instagram](https://www.instagram.com/imrosyidi)
