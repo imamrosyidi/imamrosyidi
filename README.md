@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### 🤝 Let's Connect
+
+- [LinkedIn](https://id.linkedin.com/in/moh-imam-rosyidi-16ab2516b)
+- [Medium](https://medium.com/@imrosyidi)
+- [Instagram](https://www.instagram.com/imrosyidi)
+
 <!--
 **imamrosyidi/imamrosyidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
